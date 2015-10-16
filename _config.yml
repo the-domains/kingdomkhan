@@ -1,6 +1,6 @@
-name: null
+name: kingdomkhan
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.5961996736004949
 cta:
   domain: null
   bucket: null
@@ -20,3 +20,4 @@ color:
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
+typography_spectrum: 0.08385858638212085
